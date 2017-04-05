@@ -14,6 +14,8 @@ The knock sensor is a piezo buzzer coupled with a resistor and diodes to protect
 http://electronics.stackexchange.com/questions/216274/arduino-piezo-vibration-measurement-circuit
 
 Zafar Iqbal, Vagelis Chantzis
+
 Arduino Day 2017
-Athens, Greece
+
+The Cube, Athens, Greece
 
